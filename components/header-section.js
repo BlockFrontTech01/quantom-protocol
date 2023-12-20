@@ -10,7 +10,7 @@ const HeaderSection = () => {
   }, []);
 
   const onFrameButton1Click = useCallback(() => {
-    window.open("https://jeffspace.vercel.app
+    window.open("https://jeffspace.vercel.app");
   }, []);
 
   const openQuantomMenuPopup = useCallback(() => {
